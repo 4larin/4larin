@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Who I am?
+<!-- #### Who I am?
 
 - A Software Engineer based in **[Lagos](https://en.wikipedia.org/wiki/Lagos), [Nigerua](https://en.wikipedia.org/wiki/Nigeria)**.
 - Working as **Frontend Engineer** at **[NCK Technologies](https://ncktech.com)**.
@@ -36,7 +36,7 @@
 
 <br/>
 <br/>
-<br/>
+<br/> -->
 
 <!--
 **4larin/4larin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
